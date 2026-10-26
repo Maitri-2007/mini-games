@@ -2,6 +2,8 @@
 
 A web-based interactive mini-games collection built using **Flask**, styled with custom playful CSS, animated Python-themed floating background words, and smooth cursor sparkles.
 
+**🌐 Live Demo:** [https://minigames-py.vercel.app/](https://minigames-py.vercel.app/)
+
 ## 🕹️ Included Games
 1. **Guess the Number** (1 - 100)
 2. **Roll Two Dice** 🎲
